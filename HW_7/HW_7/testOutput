@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Student><Name>Somebody</Name><ControlMarks><ControlMark><Mark>2</Mark></ControlMark><ControlMark><Mark>1</Mark></ControlMark><ControlMark><Mark>2</Mark></ControlMark></ControlMarks></Student></ArrayOfStudent>
